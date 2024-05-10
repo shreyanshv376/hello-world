@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+main
+{
+    height: 1200px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    
+    
+}
